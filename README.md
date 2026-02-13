@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<pre>
 📚 Book Price Tracker
 📌 Overview
 
@@ -88,3 +92,6 @@ Dockerize the application
 👤 Author
 Richa Paul Giri
 
+</pre>
+</body>
+</html>
